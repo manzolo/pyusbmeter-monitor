@@ -1,0 +1,11 @@
+{
+    "devicename": "UM25C",
+    "interfaces": [99:AA:99:AA:99:AA],
+    "mailserver":{
+        "host":"smtp.domain.com",
+        "port":25,
+        "user":"user@domain.com",
+        "passwd":"smtppassword",
+        "sendto":"email@sendto.com"
+    }
+}
